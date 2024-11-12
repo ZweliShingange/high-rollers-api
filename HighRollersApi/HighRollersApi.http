@@ -1,0 +1,6 @@
+@HighRollersApi_HostAddress = http://localhost:5052
+
+GET {{HighRollersApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
